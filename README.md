@@ -5,7 +5,7 @@
 #### B.Tech in Electrical & Electronics Engineering
 
 
-# Soil-Moistue-Detection-with-IoT-Analytics
+# Soil-Moisture-Detection-with-IoT-Analytics
 
 
 

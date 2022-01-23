@@ -8,7 +8,7 @@ p0=Pin(16,Pin.OUT)#inbuilt led GPIO 16
 p2=Pin(14,Pin.OUT)#D5  GPIO 14
 wlan = network.WLAN(network.STA_IF) # create station interface
 wlan.active(True)       # activate the interface
-wlan.connect('Omm','omm12345') # connect to an Mobile hotspot(ssid,password)
+wlan.connect('','') # connect to an Mobile hotspot(ssid,password)
 
 
 min_value=30
